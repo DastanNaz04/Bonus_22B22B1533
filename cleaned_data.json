@@ -1,0 +1,122 @@
+[
+    {
+        "Rank":"1",
+        "Building_Name":"бурдж-халифа",
+        "City":"дубай",
+        "Height_Meters":828.0
+    },
+    {
+        "Rank":"2",
+        "Building_Name":"merdeka 118",
+        "City":"куала-лумпур",
+        "Height_Meters":678.0
+    },
+    {
+        "Rank":"3",
+        "Building_Name":"шанхайская башня",
+        "City":"шанхай",
+        "Height_Meters":634.0
+    },
+    {
+        "Rank":"4",
+        "Building_Name":"королевская часовая башня",
+        "City":"мекка",
+        "Height_Meters":601.0
+    },
+    {
+        "Rank":"5",
+        "Building_Name":"международный финансовый центр ping an",
+        "City":"шэньчжэнь",
+        "Height_Meters":599.0
+    },
+    {
+        "Rank":"6",
+        "Building_Name":"башня lotte world",
+        "City":"сеул",
+        "Height_Meters":554.0
+    },
+    {
+        "Rank":"7",
+        "Building_Name":"всемирный торговый центр 1",
+        "City":"нью-йорк",
+        "Height_Meters":541.0
+    },
+    {
+        "Rank":"8",
+        "Building_Name":"гуанчжоуский финансовый центр ctf",
+        "City":"гуанчжоу",
+        "Height_Meters":530.0
+    },
+    {
+        "Rank":"9",
+        "Building_Name":"тяньцзиньский финансовый центр ctf",
+        "City":"тяньцзинь",
+        "Height_Meters":530.0
+    },
+    {
+        "Rank":"10",
+        "Building_Name":"пекинская башня citic",
+        "City":"пекин",
+        "Height_Meters":528.0
+    },
+    {
+        "Rank":"11",
+        "Building_Name":"тайбэй 101",
+        "City":"тайбэй",
+        "Height_Meters":508.0
+    },
+    {
+        "Rank":"12",
+        "Building_Name":"шанхайский всемирный финансовый центр",
+        "City":"шанхай",
+        "Height_Meters":492.0
+    },
+    {
+        "Rank":"13",
+        "Building_Name":"международный коммерческий центр",
+        "City":"гонконг",
+        "Height_Meters":484.0
+    },
+    {
+        "Rank":"14",
+        "Building_Name":"гринлэнд-центр",
+        "City":"ухань",
+        "Height_Meters":475.0
+    },
+    {
+        "Rank":"15",
+        "Building_Name":"сентрал-парк-тауэр",
+        "City":"нью-йорк",
+        "Height_Meters":472.0
+    },
+    {
+        "Rank":"16",
+        "Building_Name":"landmark 81",
+        "City":"хошимин",
+        "Height_Meters":469.0
+    },
+    {
+        "Rank":"17",
+        "Building_Name":"лахта центр",
+        "City":"санкт-петербург",
+        "Height_Meters":462.0
+    },
+    {
+        "Rank":"18",
+        "Building_Name":"international land-sea center",
+        "City":"чунцин",
+        "Height_Meters":458.0
+    },
+    {
+        "Rank":"19",
+        "Building_Name":"the exchange 106",
+        "City":"куала-лумпур",
+        "Height_Meters":453.0
+    },
+    {
+        "Rank":"20",
+        "Building_Name":"чаншинская башня ifs 1",
+        "City":"чанша",
+        "Height_Meters":452.0
+    }
+]
